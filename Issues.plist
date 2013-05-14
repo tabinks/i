@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-<array>
+<dict>
+	<key>Version</key>
+	<string>1</string>
+	<key>Issue1</key>
 	<dict>
 		<key>Issue</key>
 		<string>1</string>
@@ -16,103 +19,5 @@
 		<key>ContentFilename</key>
 		<string>image1.jpg</string>
 	</dict>
-	<dict>
-		<key>Issue</key>
-		<string>1</string>
-		<key>Date</key>
-		<date>2011-10-01T06:00:00Z</date>
-		<key>Name</key>
-		<string>The Worm Issue</string>
-		<key>Cover</key>
-		<string>http://www.viggiosoft.com/media/data/blog/newsstand/magazine-0.png</string>
-		<key>ContentURL</key>
-		<string>https://raw.github.com/tabinks/i/master/oscar.jpg</string>
-		<key>ContentFilename</key>
-		<string>image1.jpg</string>
-	</dict>
-	<dict>
-		<key>Issue</key>
-		<string>1</string>
-		<key>Date</key>
-		<date>2011-10-01T06:00:00Z</date>
-		<key>Name</key>
-		<string>The Worm Issue</string>
-		<key>Cover</key>
-		<string>http://www.viggiosoft.com/media/data/blog/newsstand/magazine-0.png</string>
-		<key>ContentURL</key>
-		<string>https://raw.github.com/tabinks/i/master/oscar.jpg</string>
-		<key>ContentFilename</key>
-		<string>image1.jpg</string>
-	</dict>
-	<dict>
-		<key>Issue</key>
-		<string>1</string>
-		<key>Date</key>
-		<date>2011-10-01T06:00:00Z</date>
-		<key>Name</key>
-		<string>The Worm Issue</string>
-		<key>Cover</key>
-		<string>http://www.viggiosoft.com/media/data/blog/newsstand/magazine-0.png</string>
-		<key>ContentURL</key>
-		<string>https://raw.github.com/tabinks/i/master/oscar.jpg</string>
-		<key>ContentFilename</key>
-		<string>image1.jpg</string>
-	</dict>
-	<dict>
-		<key>Issue</key>
-		<string>1</string>
-		<key>Date</key>
-		<date>2011-10-01T06:00:00Z</date>
-		<key>Name</key>
-		<string>The Worm Issue</string>
-		<key>Cover</key>
-		<string>http://www.viggiosoft.com/media/data/blog/newsstand/magazine-0.png</string>
-		<key>ContentURL</key>
-		<string>https://raw.github.com/tabinks/i/master/oscar.jpg</string>
-		<key>ContentFilename</key>
-		<string>image1.jpg</string>
-	</dict>
-	<dict>
-		<key>Issue</key>
-		<string>1</string>
-		<key>Date</key>
-		<date>2011-10-01T06:00:00Z</date>
-		<key>Name</key>
-		<string>The Worm Issue</string>
-		<key>Cover</key>
-		<string>http://www.viggiosoft.com/media/data/blog/newsstand/magazine-0.png</string>
-		<key>ContentURL</key>
-		<string>https://raw.github.com/tabinks/i/master/oscar.jpg</string>
-		<key>ContentFilename</key>
-		<string>image1.jpg</string>
-	</dict>
-	<dict>
-		<key>Issue</key>
-		<string>1</string>
-		<key>Date</key>
-		<date>2011-10-01T06:00:00Z</date>
-		<key>Name</key>
-		<string>The Worm Issue</string>
-		<key>Cover</key>
-		<string>http://www.viggiosoft.com/media/data/blog/newsstand/magazine-0.png</string>
-		<key>ContentURL</key>
-		<string>https://raw.github.com/tabinks/i/master/oscar.jpg</string>
-		<key>ContentFilename</key>
-		<string>image1.jpg</string>
-	</dict>
-	<dict>
-		<key>Issue</key>
-		<string>1</string>
-		<key>Date</key>
-		<date>2011-10-01T06:00:00Z</date>
-		<key>Name</key>
-		<string>The Worm Issue</string>
-		<key>Cover</key>
-		<string>http://www.viggiosoft.com/media/data/blog/newsstand/magazine-0.png</string>
-		<key>ContentURL</key>
-		<string>https://raw.github.com/tabinks/i/master/oscar.jpg</string>
-		<key>ContentFilename</key>
-		<string>image1.jpg</string>
-	</dict>
-</array>
+</dict>
 </plist>
