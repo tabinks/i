@@ -1,35 +1,39 @@
- <?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-  <key>Name</key>
-  <string>hi</string>
-  <key>Issues</key>
-  <array>
-    <dict>
-      <key>Issue</key>
-      <string>1</string>
-      <key>Date</key>
-      <date>2011-10-01T06:00:00Z</date>
-      <key>Cover</key>
-      <string>http://www.viggiosoft.com/media/data/blog/newsstand/magazine-0.png</string>
-      <key>ContentURL</key>
-      <string>https://raw.github.com/tabinks/i/master/oscar.jpg</string>
-      <key>ContentFilename</key>
-      <string>image1.jpg</string>
-      </dict>
-    <dict>
-      <key>Issue</key>
-      <string>2</string>
-      <key>Date</key>
-      <date>2013-10-01T06:00:00Z</date>
-      <key>Cover</key>
-      <string>http://www.viggiosoft.com/media/data/blog/newsstand/magazine-0.png</string>
-      <key>ContentURL</key>
-      <string>https://upload.wikimedia.org/wikipedia/en/c/c6/Gravity_Falls_-_Title_Card.jpg</string>
-      <key>ContentFilename</key>
-      <string>image1.jpg</string>
-      </dict>
-    </array>
+	<key>Version</key>
+	<string>1</string>
+	<key>Issues</key>
+	<array>
+		<dict>
+			<key>Issue</key>
+			<string>1</string>
+			<key>Date</key>
+			<date>2011-10-01T06:00:00Z</date>
+			<key>Name</key>
+			<string>The Worm Issue</string>
+			<key>Cover</key>
+			<string>http://www.viggiosoft.com/media/data/blog/newsstand/magazine-0.png</string>
+			<key>ContentURL</key>
+			<string>https://raw.github.com/tabinks/i/master/oscar.jpg</string>
+			<key>ContentFilename</key>
+			<string>image1.jpg</string>
+		</dict>
+		<dict>
+			<key>Issue</key>
+			<string>1</string>
+			<key>Date</key>
+			<date>2011-10-01T06:00:00Z</date>
+			<key>Name</key>
+			<string>The Worm Issue</string>
+			<key>Cover</key>
+			<string>http://www.viggiosoft.com/media/data/blog/newsstand/magazine-0.png</string>
+			<key>ContentURL</key>
+			<string>https://raw.github.com/tabinks/i/master/oscar.jpg</string>
+			<key>ContentFilename</key>
+			<string>image1.jpg</string>
+		</dict>
+	</array>
 </dict>
 </plist>
