@@ -2,6 +2,17 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>Issues</key>
+	<array>
+		<dict>
+			<key>Name</key>
+			<string>hellow</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>hello2</string>
+		</dict>
+	</array>
 	<key>Issue1</key>
 	<dict>
 		<key>Issue</key>
