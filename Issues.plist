@@ -4,8 +4,11 @@
 <dict>
 	<key>Issues</key>
 	<array>
-		<integer>0</integer>
-		<false/>
+		<dict>
+			<key>Name</key>
+			<string>hellow</string>
+		</dict>
+		<dict/>
 	</array>
 	<key>Issue1</key>
 	<dict>
