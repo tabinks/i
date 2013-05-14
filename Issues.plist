@@ -4,10 +4,8 @@
 <dict>
 	<key>Issues</key>
 	<array>
-		<dict>
-			<key>New item</key>
-			<string>a</string>
-		</dict>
+		<string>b</string>
+		<string>c</string>
 	</array>
 	<key>Version</key>
 	<string>1</string>
