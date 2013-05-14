@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-<dict>
-	<key>Issue1</key>
+<array>
 	<dict>
 		<key>Issue</key>
 		<string>1</string>
@@ -17,7 +16,6 @@
 		<key>ContentFilename</key>
 		<string>image1.jpg</string>
 	</dict>
-	<key>Issue1 - 2</key>
 	<dict>
 		<key>Issue</key>
 		<string>1</string>
@@ -32,7 +30,6 @@
 		<key>ContentFilename</key>
 		<string>image1.jpg</string>
 	</dict>
-	<key>Issue1 - 3</key>
 	<dict>
 		<key>Issue</key>
 		<string>1</string>
@@ -47,7 +44,6 @@
 		<key>ContentFilename</key>
 		<string>image1.jpg</string>
 	</dict>
-	<key>Issue1 - 4</key>
 	<dict>
 		<key>Issue</key>
 		<string>1</string>
@@ -62,7 +58,6 @@
 		<key>ContentFilename</key>
 		<string>image1.jpg</string>
 	</dict>
-	<key>Issue1 - 5</key>
 	<dict>
 		<key>Issue</key>
 		<string>1</string>
@@ -77,7 +72,6 @@
 		<key>ContentFilename</key>
 		<string>image1.jpg</string>
 	</dict>
-	<key>Issue1 - 6</key>
 	<dict>
 		<key>Issue</key>
 		<string>1</string>
@@ -92,7 +86,6 @@
 		<key>ContentFilename</key>
 		<string>image1.jpg</string>
 	</dict>
-	<key>Issue1 - 7</key>
 	<dict>
 		<key>Issue</key>
 		<string>1</string>
@@ -107,5 +100,5 @@
 		<key>ContentFilename</key>
 		<string>image1.jpg</string>
 	</dict>
-</dict>
+</array>
 </plist>
