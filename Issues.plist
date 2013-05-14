@@ -3,13 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>Issues</key>
-	<array>
-		<dict>
-			<key>Name</key>
-			<string>hellow</string>
-		</dict>
-		<dict/>
-	</array>
+	<array/>
 	<key>Issue1</key>
 	<dict>
 		<key>Issue</key>
