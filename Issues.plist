@@ -6,6 +6,8 @@
 	<array>
 		<string></string>
 	</array>
+	<key>New item</key>
+	<string></string>
 	<key>Issue1</key>
 	<dict>
 		<key>Issue</key>
