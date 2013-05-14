@@ -6,11 +6,31 @@
 	<array>
 		<dict>
 			<key>Name</key>
-			<string>hellow</string>
+			<string>The Worm Issue</string>
+			<key>Issue</key>
+			<string>1</string>
+			<key>Date</key>
+			<date>2011-10-01T06:00:00Z</date>
+			<key>Cover</key>
+			<string>http://www.viggiosoft.com/media/data/blog/newsstand/magazine-0.png</string>
+			<key>ContentURL</key>
+			<string>https://raw.github.com/tabinks/i/master/oscar.jpg</string>
+			<key>ContentFilename</key>
+			<string>image1.jpg</string>
 		</dict>
 		<dict>
 			<key>Name</key>
-			<string>hello2</string>
+			<string>The Edison Issue</string>
+			<key>Issue</key>
+			<string>1</string>
+			<key>Date</key>
+			<date>2011-10-01T06:00:00Z</date>
+			<key>Cover</key>
+			<string>http://www.viggiosoft.com/media/data/blog/newsstand/magazine-0.png</string>
+			<key>ContentURL</key>
+			<string>https://raw.github.com/tabinks/i/master/oscar.jpg</string>
+			<key>ContentFilename</key>
+			<string>image1.jpg</string>
 		</dict>
 	</array>
 	<key>Issue1</key>
