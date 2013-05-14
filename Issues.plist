@@ -4,36 +4,20 @@
 <dict>
 	<key>Version</key>
 	<string>1</string>
-	<key>Issues</key>
-	<array>
-		<dict>
-			<key>Issue</key>
-			<string>1</string>
-			<key>Date</key>
-			<date>2011-10-01T06:00:00Z</date>
-			<key>Name</key>
-			<string>The Worm Issue</string>
-			<key>Cover</key>
-			<string>http://www.viggiosoft.com/media/data/blog/newsstand/magazine-0.png</string>
-			<key>ContentURL</key>
-			<string>https://raw.github.com/tabinks/i/master/oscar.jpg</string>
-			<key>ContentFilename</key>
-			<string>image1.jpg</string>
-		</dict>
-		<dict>
-			<key>Issue</key>
-			<string>1</string>
-			<key>Date</key>
-			<date>2011-10-01T06:00:00Z</date>
-			<key>Name</key>
-			<string>The Worm Issue</string>
-			<key>Cover</key>
-			<string>http://www.viggiosoft.com/media/data/blog/newsstand/magazine-0.png</string>
-			<key>ContentURL</key>
-			<string>https://raw.github.com/tabinks/i/master/oscar.jpg</string>
-			<key>ContentFilename</key>
-			<string>image1.jpg</string>
-		</dict>
-	</array>
+	<key>New item</key>
+	<dict>
+		<key>Issue</key>
+		<string>1</string>
+		<key>Date</key>
+		<date>2011-10-01T06:00:00Z</date>
+		<key>Name</key>
+		<string>The Worm Issue</string>
+		<key>Cover</key>
+		<string>http://www.viggiosoft.com/media/data/blog/newsstand/magazine-0.png</string>
+		<key>ContentURL</key>
+		<string>https://raw.github.com/tabinks/i/master/oscar.jpg</string>
+		<key>ContentFilename</key>
+		<string>image1.jpg</string>
+	</dict>
 </dict>
 </plist>
