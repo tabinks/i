@@ -28,9 +28,9 @@
 			<key>Cover</key>
 			<string>http://www.viggiosoft.com/media/data/blog/newsstand/magazine-0.png</string>
 			<key>ContentURL</key>
-			<string>https://raw.github.com/tabinks/i/master/oscar.jpg</string>
+			<string>https://raw.github.com/tabinks/i/master/list.txt</string>
 			<key>ContentFilename</key>
-			<string>oscar.jpg</string>
+			<string>list.txt</string>
 		</dict>
 	</array>
 	<key>Version</key>
