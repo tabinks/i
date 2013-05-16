@@ -32,6 +32,20 @@
 			<key>ContentFilename</key>
 			<string>list.txt</string>
 		</dict>
+		<dict>
+			<key>Issue</key>
+			<string>3</string>
+			<key>Date</key>
+			<date>2013-012-01T05:00:00Z</date>
+			<key>Name</key>
+			<string>The Shake It Up Issue</string>
+			<key>Cover</key>
+			<string>http://www.viggiosoft.com/media/data/blog/newsstand/magazine-0.png</string>
+			<key>ContentURL</key>
+			<string>https://raw.github.com/tabinks/i/master/AvaAndAudrey-ShakeItUp.m4a</string>
+			<key>ContentFilename</key>
+			<string>ShakeIutUp.mp4</string>
+		</dict>
 	</array>
 	<key>Version</key>
 	<string>1</string>
