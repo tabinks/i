@@ -39,7 +39,7 @@
 			<date>2013-07-01T05:00:00Z</date>
 			<key>Name</key>
 			<string>The Shake It Up Issue</string>
-			<key>Cover</key>
+			<key>CoverURL</key>
 			<string>http://www.viggiosoft.com/media/data/blog/newsstand/magazine-0.png</string>
 			<key>ContentURL</key>
 			<string>https://raw.github.com/tabinks/i/master/AvaAndAudrey-ShakeItUp.m4a</string>
