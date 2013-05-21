@@ -14,7 +14,7 @@
 			<key>CoverURL</key>
 			<string>https://raw.github.com/tabinks/i/master/Issue1/Cover-Big.png</string>
 			<key>ContentURL</key>
-			<string>http://images.wikia.com/gravityfalls/images/f/f1/Gravity_Falls_Reference_Map.jpg</string>
+			<string>https://raw.github.com/tabinks/i/master/Issue1.zip</string>
 			<key>ContentFilename</key>
 			<string>gravityfalls.jpg</string>
 		</dict>
@@ -28,7 +28,7 @@
 			<key>CoverURL</key>
 			<string>https://raw.github.com/tabinks/i/master/Issue2/Cover-Big.png</string>
 			<key>ContentURL</key>
-			<string>https://raw.github.com/tabinks/i/master/list.txt</string>
+			<string>https://raw.github.com/tabinks/i/master/Issue2.zip</string>
 			<key>ContentFilename</key>
 			<string>list.txt</string>
 		</dict>
@@ -42,7 +42,7 @@
 			<key>CoverURL</key>
 			<string>https://raw.github.com/tabinks/i/master/Issue3/Cover-Big.png</string>
 			<key>ContentURL</key>
-			<string>https://raw.github.com/tabinks/i/master/AvaAndAudrey-ShakeItUp.m4a</string>
+			<string>https://raw.github.com/tabinks/i/master/Issue3.zip</string>
 			<key>ContentFilename</key>
 			<string>shakeitup.m4a</string>
 		</dict>
