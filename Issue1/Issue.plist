@@ -14,7 +14,7 @@
 			<key>ViewController</key>
 			<string>SFTitlePageViewController</string>
 			<key>BackgroundImage</key>
-			<string></string>
+			<string>Cover.png</string>
 			<key>IssueTitle</key>
 			<string>The Worm Issue</string>
 			<key>References</key>
