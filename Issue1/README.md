@@ -1,4 +1,0 @@
-ScienceFair-Issues
-==================
-
-Issue Data
