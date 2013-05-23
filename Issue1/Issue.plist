@@ -7,7 +7,7 @@
 	<key>Title</key>
 	<string>The Worm Issue</string>
 	<key>BackdropColor</key>
-	<string>Light Blue</string>
+	<string>176,87,55</string>
 	<key>ViewControllers</key>
 	<array>
 		<dict>

@@ -7,7 +7,7 @@
 	<key>Title</key>
 	<string>The Edison Issue</string>
 	<key>BackdropColor</key>
-	<string>Light Blue</string>
+	<string>186,216,233</string>
 	<key>ViewControllers</key>
 	<array>
 		<dict>
