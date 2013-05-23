@@ -15,8 +15,6 @@
 			<string>SFTitlePageViewController</string>
 			<key>BackgroundImage</key>
 			<string>Cover.png</string>
-			<key>IssueTitle</key>
-			<string>The Worm Issue</string>
 			<key>References</key>
 			<array>
 				<string>http://commons.wikimedia.org/</string>

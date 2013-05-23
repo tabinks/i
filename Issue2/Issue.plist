@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>IssueNumber</key>
-	<integer>1</integer>
+	<integer>2</integer>
 	<key>Title</key>
-	<string>The Worm Issue</string>
+	<string>The Edison Issue</string>
 	<key>BackdropColor</key>
 	<string>Light Blue</string>
 	<key>ViewControllers</key>
@@ -14,9 +14,7 @@
 			<key>ViewController</key>
 			<string>SFTitlePageViewController</string>
 			<key>BackgroundImage</key>
-			<string></string>
-			<key>IssueTitle</key>
-			<string>The Worm Issue</string>
+			<string>Cover.png</string>
 		</dict>
 		<dict>
 			<key>ViewController</key>
