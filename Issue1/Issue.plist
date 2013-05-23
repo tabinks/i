@@ -17,6 +17,10 @@
 			<string></string>
 			<key>IssueTitle</key>
 			<string>The Worm Issue</string>
+			<key>References</key>
+			<array>
+				<string>http://commons.wikimedia.org/</string>
+			</array>
 		</dict>
 		<dict>
 			<key>ViewController</key>
