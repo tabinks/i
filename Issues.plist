@@ -11,8 +11,8 @@
 			<date>2013-06-01T05:00:00Z</date>
 			<key>Name</key>
 			<string>The Worm</string>
-			<key>CoverNewsstandURL</key>
-			<string>https://raw.github.com/tabinks/i/master/Issue1/Cover-Newsstand.png</string>
+			<key>CoverLibraryURL</key>
+			<string>https://raw.github.com/tabinks/i/master/Issue1/Cover-Library.png</string>
 			<key>ContentURL</key>
 			<string>https://raw.github.com/tabinks/i/master/Issue1.zip</string>
 			<key>ContentFilename</key>
@@ -25,8 +25,8 @@
 			<date>2013-07-01T05:00:00Z</date>
 			<key>Name</key>
 			<string>The Worm Issue</string>
-			<key>CoverNewsstandURL</key>
-			<string>https://raw.github.com/tabinks/i/master/Issue2/Cover-Newsstand.png</string>
+			<key>CoverLibraryURL</key>
+			<string>https://raw.github.com/tabinks/i/master/Issue2/Cover-Library.png</string>
 			<key>ContentURL</key>
 			<string>https://raw.github.com/tabinks/i/master/Issue2.zip</string>
 			<key>ContentFilename</key>
