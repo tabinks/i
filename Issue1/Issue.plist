@@ -5,9 +5,9 @@
 	<key>IssueName</key>
 	<string>1</string>
 	<key>Title</key>
-	<string>The Worm Issue</string>
+	<string>The Edison Issue</string>
 	<key>BackdropColor</key>
-	<string>176,87,55</string>
+	<string>186,216,233</string>
 	<key>ViewControllers</key>
 	<array>
 		<dict>

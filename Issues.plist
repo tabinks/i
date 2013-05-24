@@ -34,62 +34,6 @@
 			<key>ContentFilename</key>
 			<string>shakeitup.m4a</string>
 		</dict>
-		<dict>
-			<key>Issue</key>
-			<string>2</string>
-			<key>Date</key>
-			<date>2013-07-01T05:00:00Z</date>
-			<key>Name</key>
-			<string>The Shake It Up Issue</string>
-			<key>CoverLibraryURL</key>
-			<string>https://raw.github.com/tabinks/i/master/Issue2/Cover-Library.png</string>
-			<key>ContentURL</key>
-			<string>https://raw.github.com/tabinks/i/master/Issue2.zip</string>
-			<key>ContentFilename</key>
-			<string>shakeitup.m4a</string>
-		</dict>
-		<dict>
-			<key>Issue</key>
-			<string>2</string>
-			<key>Date</key>
-			<date>2013-07-01T05:00:00Z</date>
-			<key>Name</key>
-			<string>The Shake It Up Issue</string>
-			<key>CoverLibraryURL</key>
-			<string>https://raw.github.com/tabinks/i/master/Issue2/Cover-Library.png</string>
-			<key>ContentURL</key>
-			<string>https://raw.github.com/tabinks/i/master/Issue2.zip</string>
-			<key>ContentFilename</key>
-			<string>shakeitup.m4a</string>
-		</dict>
-		<dict>
-			<key>Issue</key>
-			<string>2</string>
-			<key>Date</key>
-			<date>2013-07-01T05:00:00Z</date>
-			<key>Name</key>
-			<string>The Shake It Up Issue</string>
-			<key>CoverLibraryURL</key>
-			<string>https://raw.github.com/tabinks/i/master/Issue2/Cover-Library.png</string>
-			<key>ContentURL</key>
-			<string>https://raw.github.com/tabinks/i/master/Issue2.zip</string>
-			<key>ContentFilename</key>
-			<string>shakeitup.m4a</string>
-		</dict>
-		<dict>
-			<key>Issue</key>
-			<string>2</string>
-			<key>Date</key>
-			<date>2013-07-01T05:00:00Z</date>
-			<key>Name</key>
-			<string>The Shake It Up Issue</string>
-			<key>CoverLibraryURL</key>
-			<string>https://raw.github.com/tabinks/i/master/Issue2/Cover-Library.png</string>
-			<key>ContentURL</key>
-			<string>https://raw.github.com/tabinks/i/master/Issue2.zip</string>
-			<key>ContentFilename</key>
-			<string>shakeitup.m4a</string>
-		</dict>
 	</array>
 	<key>Version</key>
 	<string>1</string>
