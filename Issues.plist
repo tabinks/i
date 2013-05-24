@@ -5,18 +5,34 @@
 	<key>Issues</key>
 	<array>
 		<dict>
+			<key>Version</key>
+			<string>0</string>
+			<key>Issue</key>
+			<string>0</string>
+			<key>Date</key>
+			<date>2013-07-01T05:00:00Z</date>
+			<key>Name</key>
+			<string>The Worm Issue</string>
+			<key>CoverLibraryURL</key>
+			<string>https://raw.github.com/tabinks/i/master/Issue0/Cover-Library.png</string>
+			<key>ContentURL</key>
+			<string>https://raw.github.com/tabinks/i/master/Issue0.zip</string>
+			<key>ContentFilename</key>
+			<string>list.txt</string>
+		</dict>
+		<dict>
 			<key>Issue</key>
 			<string>1</string>
 			<key>Date</key>
-			<date>2013-06-01T05:00:00Z</date>
+			<date>2013-07-01T05:00:00Z</date>
 			<key>Name</key>
-			<string>The Worm</string>
-			<key>CoverLibraryURL</key>
-			<string>https://raw.github.com/tabinks/i/master/Issue1/Cover-Library.png</string>
+			<string>The Shake It Up Issue</string>
+			<key>CoverURL</key>
+			<string>https://raw.github.com/tabinks/i/master/Issue1/Cover-Big.png</string>
 			<key>ContentURL</key>
 			<string>https://raw.github.com/tabinks/i/master/Issue1.zip</string>
 			<key>ContentFilename</key>
-			<string>gravityfalls.jpg</string>
+			<string>shakeitup.m4a</string>
 		</dict>
 		<dict>
 			<key>Issue</key>
@@ -24,25 +40,11 @@
 			<key>Date</key>
 			<date>2013-07-01T05:00:00Z</date>
 			<key>Name</key>
-			<string>The Worm Issue</string>
-			<key>CoverLibraryURL</key>
-			<string>https://raw.github.com/tabinks/i/master/Issue2/Cover-Library.png</string>
-			<key>ContentURL</key>
-			<string>https://raw.github.com/tabinks/i/master/Issue2.zip</string>
-			<key>ContentFilename</key>
-			<string>list.txt</string>
-		</dict>
-		<dict>
-			<key>Issue</key>
-			<string>3</string>
-			<key>Date</key>
-			<date>2013-07-01T05:00:00Z</date>
-			<key>Name</key>
 			<string>The Shake It Up Issue</string>
 			<key>CoverURL</key>
-			<string>https://raw.github.com/tabinks/i/master/Issue3/Cover-Big.png</string>
+			<string>https://raw.github.com/tabinks/i/master/Issue2/Cover-Big.png</string>
 			<key>ContentURL</key>
-			<string>https://raw.github.com/tabinks/i/master/Issue3.zip</string>
+			<string>https://raw.github.com/tabinks/i/master/Issue2.zip</string>
 			<key>ContentFilename</key>
 			<string>shakeitup.m4a</string>
 		</dict>
