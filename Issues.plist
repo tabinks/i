@@ -19,6 +19,8 @@
 			<string>https://raw.github.com/tabinks/i/master/Issue0.zip</string>
 			<key>ContentFilename</key>
 			<string>list.txt</string>
+			<key>Color</key>
+			<string>176,87,55</string>
 		</dict>
 		<dict>
 			<key>Issue</key>
@@ -33,6 +35,8 @@
 			<string>https://raw.github.com/tabinks/i/master/Issue1.zip</string>
 			<key>ContentFilename</key>
 			<string>shakeitup.m4a</string>
+			<key>Color</key>
+			<string>186,216,233</string>
 		</dict>
 	</array>
 	<key>Version</key>
