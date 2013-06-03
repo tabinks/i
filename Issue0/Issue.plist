@@ -97,39 +97,11 @@
 		</dict>
 		<dict>
 			<key>ViewController</key>
-			<string>SFTitlePageViewController</string>
-			<key>BackgroundImage</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>ViewController</key>
 			<string>SFMoviePage1ViewController</string>
 			<key>BackgroundImage</key>
 			<string></string>
 			<key>VideoURL</key>
 			<string>NxeT_GDKv9g</string>
-		</dict>
-		<dict>
-			<key>ViewController</key>
-			<string>SFTitlePageViewController</string>
-			<key>BackgroundImage</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>ViewController</key>
-			<string>DoodleViewController</string>
-			<key>Title</key>
-			<string>4</string>
-			<key>BackgroundImage</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>ViewController</key>
-			<string>DoodleViewController</string>
-			<key>Title</key>
-			<string>Three</string>
-			<key>BackgroundImage</key>
-			<string>lake</string>
 		</dict>
 	</array>
 </dict>
