@@ -36,4 +36,4 @@ $PLIST_BUDDY -c "Set :Issues:1:Version ${VERSION}" Issues.plist
 git add ./;git commit -m "Update"; git push 
 
 #
-cp Issue0.zip /Users/tbinkowski/Dropbox/Public
+cp Issue0.zip /Users/tbinkowski/Dropbox/Public/

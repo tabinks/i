@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>FullVersion</key>
-	<string>fdc9299-dirty</string>
+	<string>aafd9c6-dirty</string>
 	<key>Issues</key>
 	<array>
 		<dict>
@@ -44,8 +44,8 @@
 		</dict>
 	</array>
 	<key>ShortVersion</key>
-	<string>fdc92996fb9b63e6057bff32de14bad05e65d201</string>
+	<string>aafd9c656d9433d6e70fce531e50a187e2d9b1f8</string>
 	<key>Version</key>
-	<integer>87</integer>
+	<integer>88</integer>
 </dict>
 </plist>
