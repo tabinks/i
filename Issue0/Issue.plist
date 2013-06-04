@@ -22,11 +22,9 @@
 		</dict>
 		<dict>
 			<key>BackgroundImage</key>
-			<string>Issue0-Backdrop-0.png</string>
+			<string>Backdrop-0.png</string>
 			<key>ViewController</key>
 			<string>SFPicturePage1ViewController</string>
-			<key>Image</key>
-			<string></string>
 			<key>Audio</key>
 			<array>
 				<dict>
