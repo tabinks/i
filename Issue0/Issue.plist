@@ -22,7 +22,7 @@
 		</dict>
 		<dict>
 			<key>BackgroundImage</key>
-			<string>Backdrop-0.png</string>
+			<string>Backdrop-1.png</string>
 			<key>ViewController</key>
 			<string>SFPicturePage1ViewController</string>
 			<key>Audio</key>
