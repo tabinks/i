@@ -2,44 +2,50 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>FullVersion</key>
+	<string>41e4e17-dirty</string>
+	<key>ShortVersion</key>
+	<string>41e4e176e31d6ad3dfc47b90f2a2b4e2fff441e9</string>
+	<key>Version</key>
+	<integer>85</integer>
 	<key>Issues</key>
 	<array>
 		<dict>
-			<key>Version</key>
-			<string>0</string>
-			<key>Issue</key>
-			<string>0</string>
-			<key>Date</key>
-			<date>2013-07-01T05:00:00Z</date>
-			<key>Name</key>
-			<string>The Worm Issue</string>
-			<key>CoverLibraryURL</key>
-			<string>https://raw.github.com/tabinks/i/master/Issue0/Cover-Library.png</string>
-			<key>ContentURL</key>
-			<string>https://dl.dropboxusercontent.com/u/3976887/Issue0.zip</string>
-			<key>ContentFilename</key>
-			<string>list.txt</string>
 			<key>Color</key>
 			<string>176,87,55</string>
-		</dict>
-		<dict>
-			<key>Issue</key>
-			<string>1</string>
+			<key>ContentFilename</key>
+			<string>list.txt</string>
+			<key>ContentURL</key>
+			<string>https://dl.dropboxusercontent.com/u/3976887/Issue0.zip</string>
+			<key>CoverLibraryURL</key>
+			<string>https://raw.github.com/tabinks/i/master/Issue0/Cover-Library.png</string>
 			<key>Date</key>
 			<date>2013-07-01T05:00:00Z</date>
+			<key>Issue</key>
+			<string>0</string>
 			<key>Name</key>
-			<string>The Shake It Up Issue</string>
-			<key>CoverLibraryURL</key>
-			<string>https://raw.github.com/tabinks/i/master/Issue1/Cover-Library.png</string>
-			<key>ContentURL</key>
-			<string>https://raw.github.com/tabinks/i/master/Issue1.zip</string>
-			<key>ContentFilename</key>
-			<string>shakeitup.m4a</string>
+			<string>The Worm Issue</string>
+			<key>Version</key>
+			<integer>5</integer>
+		</dict>
+		<dict>
 			<key>Color</key>
 			<string>186,216,233</string>
+			<key>ContentFilename</key>
+			<string>shakeitup.m4a</string>
+			<key>ContentURL</key>
+			<string>https://raw.github.com/tabinks/i/master/Issue1.zip</string>
+			<key>CoverLibraryURL</key>
+			<string>https://raw.github.com/tabinks/i/master/Issue1/Cover-Library.png</string>
+			<key>Date</key>
+			<date>2013-07-01T05:00:00Z</date>
+			<key>Issue</key>
+			<string>1</string>
+			<key>Name</key>
+			<string>The Shake It Up Issue</string>
+			<key>Version</key>
+			<integer>17</integer>
 		</dict>
 	</array>
-	<key>Version</key>
-	<string>1</string>
 </dict>
 </plist>
