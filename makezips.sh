@@ -3,7 +3,7 @@ PLIST_BUDDY="/usr/libexec/PlistBuddy"
 PROJECT_DIR="./"
 
 
-git add ./;git commit -m "Update"; git push 
+git add ./;git commit -m "Update"
 
 # Clean up all the old zips because the changes are addiditive
 echo "REMOVING OLD ZIPS..."
@@ -36,7 +36,7 @@ VERSION=$(git log Issue1 | grep commit | wc -l)
 $PLIST_BUDDY -c "Set :Issues:1:Version ${VERSION}" Issues.plist
 
 # Push the plist
-git add ./;git commit -m "Update"; git push 
+git add ./;git commit -m "Update after plists"; git push 
 
 #
 cp Issue0.zip /Users/tbinkowski/Dropbox/Public/
