@@ -32,3 +32,5 @@ $PLIST_BUDDY -c "Set :Issues:0:Version ${VERSION}" Issues.plist
 VERSION=$(git log Issue1 | grep commit | wc -l)
 $PLIST_BUDDY -c "Set :Issues:1:Version ${VERSION}" Issues.plist
 
+#
+cp Issue0.zip /Users/tbinkowski/Dropbox/Public
