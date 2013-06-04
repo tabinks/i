@@ -93,7 +93,7 @@
 				</dict>
 			</array>
 			<key>AudioFile</key>
-			<string>QuckFox.wav</string>
+			<string>QuickFox.wav</string>
 		</dict>
 		<dict>
 			<key>ViewController</key>
