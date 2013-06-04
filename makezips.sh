@@ -2,6 +2,9 @@
 PLIST_BUDDY="/usr/libexec/PlistBuddy"
 PROJECT_DIR="./"
 
+
+git add ./;git commit -m "Update"; git push 
+
 # Clean up all the old zips because the changes are addiditive
 echo "REMOVING OLD ZIPS..."
 rm -rf Issue0.zip Issue1.zip
