@@ -21,6 +21,18 @@
 			</array>
 		</dict>
 		<dict>
+			<key>ViewController</key>
+			<string>SFViewController</string>
+			<key>Storyboard</key>
+			<false/>
+			<key>BackgroundImage</key>
+			<string>Cover.png</string>
+			<key>References</key>
+			<array>
+				<string>http://commons.wikimedia.org/</string>
+			</array>
+		</dict>
+		<dict>
 			<key>BackgroundImage</key>
 			<string>Backdrop-1.png</string>
 			<key>ViewController</key>
