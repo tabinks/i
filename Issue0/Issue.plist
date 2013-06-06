@@ -23,7 +23,7 @@
 		<dict>
 			<key>ViewController</key>
 			<string>SFViewController</string>
-			<key>Storyboard</key>
+			<key>StoryboardScene</key>
 			<false/>
 			<key>BackgroundImage</key>
 			<string>Cover.png</string>
