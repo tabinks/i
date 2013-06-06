@@ -2,7 +2,7 @@
 PLIST_BUDDY="/usr/libexec/PlistBuddy"
 PROJECT_DIR="./"
 
-
+touch touchfile
 git add ./;git commit -m "Update"
 
 # Clean up all the old zips because the changes are addiditive
