@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>FullVersion</key>
-	<string>a9396ae-dirty</string>
+	<string>97c7c28-dirty</string>
 	<key>Issues</key>
 	<array>
 		<dict>
@@ -22,7 +22,7 @@
 			<key>Name</key>
 			<string>The Worm Issue</string>
 			<key>Version</key>
-			<integer>21</integer>
+			<integer>22</integer>
 		</dict>
 		<dict>
 			<key>Color</key>
@@ -44,8 +44,8 @@
 		</dict>
 	</array>
 	<key>ShortVersion</key>
-	<string>a9396ae1a594612218c5362d6d3ffb6ea308bdeb</string>
+	<string>97c7c28fb193f4e322aa5ee9ffb38f8fc8bc887f</string>
 	<key>Version</key>
-	<integer>180</integer>
+	<integer>182</integer>
 </dict>
 </plist>
