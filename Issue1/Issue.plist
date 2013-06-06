@@ -22,6 +22,26 @@
 		</dict>
 		<dict>
 			<key>ViewController</key>
+			<string>SFTitlePageViewController</string>
+			<key>BackgroundImage</key>
+			<string>Cover.png</string>
+			<key>References</key>
+			<array>
+				<string>http://commons.wikimedia.org/</string>
+			</array>
+		</dict>
+		<dict>
+			<key>ViewController</key>
+			<string>SFTitlePageViewController</string>
+			<key>BackgroundImage</key>
+			<string>Cover.png</string>
+			<key>References</key>
+			<array>
+				<string>http://commons.wikimedia.org/</string>
+			</array>
+		</dict>
+		<dict>
+			<key>ViewController</key>
 			<string>SFPicturePage1ViewController</string>
 			<key>Image</key>
 			<string></string>
