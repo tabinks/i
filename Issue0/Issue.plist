@@ -24,15 +24,11 @@
 		</dict>
 		<dict>
 			<key>ViewController</key>
-			<string>SFTitlePageViewController</string>
+			<string>SFMoviePage1ViewController</string>
 			<key>StoryboardScene</key>
-			<false/>
-			<key>BackgroundImage</key>
-			<string>Cover.png</string>
-			<key>References</key>
-			<array>
-				<string>http://commons.wikimedia.org/</string>
-			</array>
+			<true/>
+			<key>VideoURL</key>
+			<string>NxeT_GDKv9g.mov</string>
 		</dict>
 		<dict>
 			<key>ViewController</key>
@@ -126,14 +122,6 @@
 			</array>
 			<key>AudioFile</key>
 			<string>QuickFox.wav</string>
-		</dict>
-		<dict>
-			<key>ViewController</key>
-			<string>SFMoviePage1ViewController</string>
-			<key>StoryboardScene</key>
-			<true/>
-			<key>VideoURL</key>
-			<string>NxeT_GDKv9g.mov</string>
 		</dict>
 		<dict>
 			<key>ViewController</key>
