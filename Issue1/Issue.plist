@@ -176,14 +176,6 @@
 			<key>BackgroundImage</key>
 			<string></string>
 		</dict>
-		<dict>
-			<key>ViewController</key>
-			<string>DoodleViewController</string>
-			<key>Title</key>
-			<string>Three</string>
-			<key>BackgroundImage</key>
-			<string>lake</string>
-		</dict>
 	</array>
 </dict>
 </plist>
