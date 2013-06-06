@@ -13,6 +13,8 @@
 		<dict>
 			<key>ViewController</key>
 			<string>SFTitlePageViewController</string>
+			<key>StoryboardScene</key>
+			<true/>
 			<key>BackgroundImage</key>
 			<string>Cover.png</string>
 			<key>References</key>
@@ -35,6 +37,8 @@
 		<dict>
 			<key>BackgroundImage</key>
 			<string>Backdrop-1.png</string>
+			<key>StoryboardScene</key>
+			<true/>
 			<key>ViewController</key>
 			<string>SFPicturePage1ViewController</string>
 			<key>Audio</key>
@@ -110,6 +114,8 @@
 		<dict>
 			<key>ViewController</key>
 			<string>SFMoviePage1ViewController</string>
+			<key>StoryboardScene</key>
+			<true/>
 			<key>VideoURL</key>
 			<string>NxeT_GDKv9g.mov</string>
 		</dict>
