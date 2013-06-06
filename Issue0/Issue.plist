@@ -119,14 +119,6 @@
 			<key>VideoURL</key>
 			<string>NxeT_GDKv9g.mov</string>
 		</dict>
-		<dict>
-			<key>ViewController</key>
-			<string>SFMoviePage1ViewController</string>
-			<key>StoryboardScene</key>
-			<true/>
-			<key>VideoURL</key>
-			<string>NxeT_GDKv9g.mov</string>
-		</dict>
 	</array>
 </dict>
 </plist>
