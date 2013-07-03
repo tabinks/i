@@ -23,8 +23,6 @@ $PLIST_BUDDY -c "Set :ShortVersion ${SHORT_VERSION}" Issues.plist
 
 VERSION=$(git rev-list master | wc -l)
 $PLIST_BUDDY -c "Set :Version ${VERSION}" Issues.plist
-# Update the Isses.plist version of each one
-#VERSION = $(git log Issue0 | grep commit | wc -l)
 
 ################################################################################
 # Update the issue versions
