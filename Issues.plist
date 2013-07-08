@@ -4,6 +4,10 @@
 <dict>
 	<key>FullVersion</key>
 	<string>e180345-dirty</string>
+	<key>ShortVersion</key>
+	<string>e1803458c0feaac0eb8a62ba74d030b23b0fe44b</string>
+	<key>Version</key>
+	<integer>199</integer>
 	<key>Issues</key>
 	<array>
 		<dict>
@@ -23,6 +27,8 @@
 			<string>The Worm Issue</string>
 			<key>Version</key>
 			<integer>26</integer>
+			<key>Description</key>
+			<string>Learn and explore the world of the earthworm and you will find that it is not so common.  This issue is edited by Dr. Gyorgy Babnigg a biologist at the University of Chicago.</string>
 		</dict>
 		<dict>
 			<key>Color</key>
@@ -39,13 +45,29 @@
 			<string>1</string>
 			<key>Name</key>
 			<string>The Shake It Up Issue</string>
+			<key>Description</key>
+			<string>Vist the lab and learn about the inventions of the great American Inventor Thomas Alva Edison.</string>
 			<key>Version</key>
 			<integer>46</integer>
 		</dict>
+		<dict>
+			<key>Color</key>
+			<string>150,150,150</string>
+			<key>ContentURL</key>
+			<string>https://raw.github.com/tabinks/i/master/Issue2.zip</string>
+			<key>CoverLibraryURL</key>
+			<string>https://raw.github.com/tabinks/i/master/Issue2/Cover-Library.png</string>
+			<key>Date</key>
+			<date>2013-08-01T05:00:00Z</date>
+			<key>Issue</key>
+			<string>2</string>
+			<key>Name</key>
+			<string>DNA for President!</string>
+			<key>Version</key>
+			<integer>46</integer>
+			<key>Description</key>
+			<string>See how DNA constructs the basic building blocks for all life.  This issue is edited by Dr. Susana Marino, a immunologist at the University of Chicago.</string>
+		</dict>
 	</array>
-	<key>ShortVersion</key>
-	<string>e1803458c0feaac0eb8a62ba74d030b23b0fe44b</string>
-	<key>Version</key>
-	<integer>199</integer>
 </dict>
 </plist>
