@@ -29,6 +29,8 @@
 			<true/>
 			<key>VideoURL</key>
 			<string>NxeT_GDKv9g.mov</string>
+			<key>Text</key>
+			<string></string>
 		</dict>
 		<dict>
 			<key>BackgroundImage</key>
