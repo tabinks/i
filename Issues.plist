@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>FullVersion</key>
-	<string>4e6a314-dirty</string>
+	<string>5c290a2-dirty</string>
 	<key>Issues</key>
 	<array>
 		<dict>
@@ -44,7 +44,7 @@
 			<key>Name</key>
 			<string>The Shake It Up Issue</string>
 			<key>Version</key>
-			<integer>49</integer>
+			<integer>50</integer>
 		</dict>
 		<dict>
 			<key>Color</key>
@@ -66,8 +66,8 @@
 		</dict>
 	</array>
 	<key>ShortVersion</key>
-	<string>4e6a31419a2d5079192a93abeaaf179cb26e50bb</string>
+	<string>5c290a289ee383c76698657fe135a6693b56d043</string>
 	<key>Version</key>
-	<integer>238</integer>
+	<integer>240</integer>
 </dict>
 </plist>
