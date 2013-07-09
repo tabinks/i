@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>FullVersion</key>
-	<string>fb8595e-dirty</string>
+	<string>cef70ad-dirty</string>
 	<key>Issues</key>
 	<array>
 		<dict>
@@ -24,7 +24,7 @@
 			<key>Name</key>
 			<string>The Worm Issue</string>
 			<key>Version</key>
-			<integer>48</integer>
+			<integer>49</integer>
 		</dict>
 		<dict>
 			<key>Color</key>
@@ -44,7 +44,7 @@
 			<key>Name</key>
 			<string>The Shake It Up Issue</string>
 			<key>Version</key>
-			<integer>59</integer>
+			<integer>60</integer>
 		</dict>
 		<dict>
 			<key>Color</key>
@@ -62,12 +62,12 @@
 			<key>Name</key>
 			<string>DNA for President!</string>
 			<key>Version</key>
-			<integer>15</integer>
+			<integer>16</integer>
 		</dict>
 	</array>
 	<key>ShortVersion</key>
-	<string>fb8595e8b20d2e77ead4d0178bae0a3fd5c692d3</string>
+	<string>cef70ad1734e6640a5b2c1d1c369eba6ac204173</string>
 	<key>Version</key>
-	<integer>258</integer>
+	<integer>260</integer>
 </dict>
 </plist>
